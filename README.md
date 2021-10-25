@@ -36,8 +36,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Vite</span><br><br><br>
+        <img height="64px" src="https://vitejs.dev/logo.svg">
       </td>
     </tr>
   </tbody>
