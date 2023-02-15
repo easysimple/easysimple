@@ -1,7 +1,7 @@
-### Hi there, I'm EasySimple! 👋
+### Hi there, I'm liutao! 👋
 - take it easy,everything is ok~
 
-[![EasySimple's github stats](https://github-readme-stats.vercel.app/api?username=EasySimple&show_icons=true&theme=dracula)](https://github.com/EasySimple/github-readme-stats)
+[![liutao's github stats](https://github-readme-stats.vercel.app/api?username=liutaohz&show_icons=true&theme=dracula)](https://github.com/liutaohz/github-readme-stats)
 
 ### Tech Stack
 <table>
