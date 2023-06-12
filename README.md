@@ -1,7 +1,7 @@
 ### Hi there, I'm liutao! 👋
 - take it easy,everything is ok~
 
-[![liutao's github stats](https://github-readme-stats.vercel.app/api?username=liutaohz&show_icons=true&theme=dracula)](https://github.com/liutaohz/github-readme-stats)
+<!-- [![liutao's github stats](https://github-readme-stats.vercel.app/api?username=liutaohz&show_icons=true&theme=dracula)](https://github.com/liutaohz/github-readme-stats) -->
 
 ### Tech Stack
 <table>
